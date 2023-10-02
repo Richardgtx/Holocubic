@@ -19,7 +19,7 @@ Holocubic是一个伪全息显示桌面摆件。可以用来看天气，时间�
 ![HoloCubic-01](https://github.com/Richardgtx/Holocubic/assets/139878921/e25558c1-f55a-491e-9dcf-9ee78226822c)
 
 1.电路原理图 & PCB图绘制 
-  使用 Altium desiger绘制
+ 
 
 2.元器件 & 物料采购
 
@@ -27,9 +27,7 @@ Holocubic是一个伪全息显示桌面摆件。可以用来看天气，时间�
 ![微信图片_20231002114431](https://github.com/Richardgtx/Holocubic/assets/139878921/8ec2c2a2-61e2-4540-a7cb-352d986f085b)
 
 3.电路板焊接
-  采用wy815p二合一焊台
-
-  翻工，成功识别！
+ 
+![微信图片_20231002121557](https://github.com/Richardgtx/Holocubic/assets/139878921/956c6e50-e1e1-4379-9bed-05efcc0729bf)
 
   
-![微信图片_202310021145011](https://github.com/Richardgtx/Holocubic/assets/139878921/9347ddec-72a6-4634-a508-662f5edc06a1)
