@@ -20,7 +20,8 @@ Holocubic是一个伪全息显示桌面摆件。可以用来看天气，时间�
 
 1.电路原理图 & PCB图绘制 
  
-![PCB2](https://github.com/Richardgtx/Holocubic/assets/139878921/a43492e8-0c3e-4d42-b0e5-ff4dfefd3470)
+![PCB2](https://github.com/Richardgtx/Holocubic/assets/139878921/a9da282c-5029-4ed6-854f-d8be54619719)
+
 
 2.元器件 & 物料采购
 
