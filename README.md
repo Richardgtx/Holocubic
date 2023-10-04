@@ -32,5 +32,5 @@ Holocubic是一个伪全息显示桌面摆件。可以用来看天气，时间�
  
 ![微信图片_20231002121557](https://github.com/Richardgtx/Holocubic/assets/139878921/956c6e50-e1e1-4379-9bed-05efcc0729bf)
 
-  
+多次翻工，cp2102识别成功了！  
 ![微信图片_202310021145011](https://github.com/Richardgtx/Holocubic/assets/139878921/9ed08ac4-09c9-49ab-8dcd-9b585ad07a47)
